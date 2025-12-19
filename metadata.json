@@ -1,0 +1,5 @@
+{
+  "name": "UniRide Admin Portal",
+  "description": "A high-fidelity administrative dashboard for the UniRide ride-sharing platform, featuring data visualization, user management, and key performance indicators.",
+  "requestFramePermissions": []
+}
